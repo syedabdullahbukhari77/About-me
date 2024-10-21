@@ -9,6 +9,6 @@ Looking for:
 Opportunities to collaborate on projects and learn from experienced developers.
 
  
-syed-abdullah-bukhari/syed-abdullah-bukhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+syedabdullahbukhari77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
