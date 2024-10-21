@@ -1,9 +1,8 @@
-Syed Abdullah Bukhari - Aspiring Software Engineer
+Syed Abdullah Bukhari - Aspiring 
 
 Currently:
 
-Actively learning web development skills (HTML, CSS, JavaScript).
-Eager to expand my knowledge and explore different programming languages and frameworks.
+Passionate data scientist with a strong foundation in Excel , Python , MySQL  
 
 Looking for:
 
